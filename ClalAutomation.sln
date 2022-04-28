@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "Infra\Infra.csproj", "{E0F8E6FB-64A1-4475-981B-9F9F127FCBBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{6E8C0D0D-2A42-4E70-8133-0A77B846BE81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0F8E6FB-64A1-4475-981B-9F9F127FCBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F8E6FB-64A1-4475-981B-9F9F127FCBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F8E6FB-64A1-4475-981B-9F9F127FCBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F8E6FB-64A1-4475-981B-9F9F127FCBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8C0D0D-2A42-4E70-8133-0A77B846BE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8C0D0D-2A42-4E70-8133-0A77B846BE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8C0D0D-2A42-4E70-8133-0A77B846BE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8C0D0D-2A42-4E70-8133-0A77B846BE81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7B5403C-8A81-4648-8DA0-47E9FFEFEECC}
+	EndGlobalSection
+EndGlobal
